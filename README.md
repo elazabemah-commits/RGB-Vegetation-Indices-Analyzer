@@ -38,8 +38,7 @@ or
 
 1. Ensure you have **Python 3.8+** installed.
 
-```pyinstaller --onefile --windowed 
-RGBAnalyzer.py
+```pyinstaller --onefile --windowed RGBAnalyzer.py
 ```
 
 ## Usage
