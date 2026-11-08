@@ -96,7 +96,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 If you use this tool in your research, please cite appropriately and acknowledge the developer:
 
-> Elazab, A. RGB Vegetation Indices Analyzer. University of Concepción.
+> Elazab, A. (2026). RGB Vegetation Indices Analyzer [Computer software]. University of Concepción. https://github.com/elazabemah-commits/RGB-Vegetation-Indices-Analyzer.
 
 ---
 
