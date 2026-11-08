@@ -3,6 +3,7 @@
 A comprehensive, interactive desktop application for calculating a wide range of **RGB-based vegetation indices** and color metrics from digital images and orthomosaics.
 
 Developed by **Dr. Abdelhalim Khaled Elazab**  
+akhaled@udec.cl
 Crop Ecophysiology  
 Faculty of Agronomy  
 University of Concepción
