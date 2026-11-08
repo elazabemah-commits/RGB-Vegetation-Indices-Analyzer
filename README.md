@@ -4,6 +4,7 @@ A comprehensive, interactive desktop application for calculating a wide range of
 
 Developed by **Dr. Abdelhalim Khaled Elazab**  
 akhaled@udec.cl
+
 Crop Ecophysiology  
 Faculty of Agronomy  
 University of Concepción
