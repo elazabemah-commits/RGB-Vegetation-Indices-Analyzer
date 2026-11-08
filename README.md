@@ -2,7 +2,7 @@
 
 A comprehensive, interactive desktop application for calculating a wide range of **RGB-based vegetation indices** and color metrics from digital images and orthomosaics.
 
-Developed by **Dr. Abdelhalim Khaled**  
+Developed by **Dr. Abdelhalim Khaled Elazab**  
 Crop Ecophysiology  
 Faculty of Agronomy  
 University of Concepción
@@ -87,7 +87,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 If you use this tool in your research, please cite appropriately and acknowledge the developer:
 
-> Khaled, A. RGB Vegetation Indices Analyzer. University of Concepción.
+> Elazab, A. RGB Vegetation Indices Analyzer. University of Concepción.
 
 ---
 
